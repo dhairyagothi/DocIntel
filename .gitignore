@@ -1,0 +1,10 @@
+.env
+*.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+data/uploads/*
+data/processed/*
+!data/uploads/.gitkeep
+!data/processed/.gitkeep
