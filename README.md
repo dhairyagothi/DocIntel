@@ -57,7 +57,9 @@ The result is an inspectable knowledge layer where every important conclusion ca
 
 ### Video Demo
 
-[Watch the 3-minute demo](ADD_YOUR_VIDEO_LINK_HERE)
+[Watch the 3-minute demo](https://youtu.be/gfqqwo5HEoE?si=N5qd6OMqMGCXH9F6)
+
+https://youtu.be/gfqqwo5HEoE?si=N5qd6OMqMGCXH9F6
 
 The demo covers:
 
